@@ -6,12 +6,12 @@
 # 資安專業課程(底下課程須有專數授權才可存取)
 - 系統安全(System Security)
 - 網路安全(Network Security)
-- 網站安全(Web Security)
+- 網站安全(Web Security) WebSecurity2023
 - 滲透測試(Penetration Test)
 - 數位鑑識(Digital Forensics)
 - 破密分析(CryptoAnalysis)
-- 逆向工程(Reverse Engineering)
-- 程式安全測試(PWN)
+- 逆向工程(Reverse Engineering) [Reversing202209](https://github.com/MyDearGreatTeacher/Reversing202209/blob/main/README.md)
+- 程式安全測試(PWN) PWN2023
 - [研究所]高階資安專題
   - 資訊安全管理系統(Information Security Management System|ISMS)ISO27001:2022
   - 資安風險管理(risk management) ISO iso27005:2022
@@ -22,7 +22,7 @@
   - 惡意程式分析(Advanced Malware analysis)
 - [研究所]機器學習與資訊安全
   - 機器學習 課程 
-- [研究所]人工智慧與資訊安全
+- [研究所]人工智慧與資訊安全  AI_SEC_202302
   - 人工智慧課程
     - PyTorch 人工智慧實戰
     - Jeras/Tensorflow 人工智慧實戰
@@ -36,7 +36,7 @@
 # 專業資安證照輔導班
 - [IPAS 資訊安全工程師](https://www.ipas.org.tw/ISE)
   - 初階
-  - 中階
+  - 中階 [IPAS_M_202307](https://github.com/MyDearGreatTeacher/IPAS_M_202307)
 - CEH EC-Council Ethical Hacking and Countermeasures
   - [EC-Council CEH駭客技術專家認證課程](https://www.uuu.com.tw/Course/Show/300/EC-Council-CEH%E9%A7%AD%E5%AE%A2%E6%8A%80%E8%A1%93%E5%B0%88%E5%AE%B6%E8%AA%8D%E8%AD%89%E8%AA%B2%E7%A8%8B)
 - CISSP Certified Information Systems Security Professional
