@@ -1,6 +1,6 @@
 # 大學部開授課程
 - 系統安全(System Security)
-  - [課程大綱]()
+  - [課程大綱](./SS.md)
   - 課程網址:2021_2_courses/linux/
 - 網路安全(Network Security)
   - [課程大綱]()
