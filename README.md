@@ -5,6 +5,7 @@
 
 # 資安專業課程(底下課程須有授權才可存取)
 - 系統安全(System Security) 課程網址:2021_2_courses/linux/
+  - [Windows 作業系統安全性](https://learn.microsoft.com/zh-tw/windows/security/operating-system-security/) 
 - 網路安全(Network Security)
 - 網站安全(Web Security) 課程網址:WebSecurity2024(需要授權)
 - 滲透測試(Penetration Test) 課程網址:PT2024(需要授權)
