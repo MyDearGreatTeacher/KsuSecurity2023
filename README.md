@@ -8,16 +8,19 @@
   - [A1_MyFirstSecurity資安入門的第一堂課](https://github.com/MyFirstSecurity2020/20230301)
   - [A2_Linux資安技術入門](https://github.com/MyFirstSecurity2020/20230302)
   - [A3_Python程式與資安應用入門 ](https://github.com/MyFirstSecurity2020/SF2023A3)
-- 
 # 資安專業課程
 - 系統安全(System Security)
 - 網路安全(Network Security)
 - 網站安全(Web Security)
 - 滲透測試(Penetration Test)
 - 數位鑑識(Digital Forensics)
-- 程式安全測試(PWN)
+- 破密分析(CryptoAnalysis)
 - 逆向工程(Reverse Engineering)
+- 程式安全測試(PWN)
 - [研究所]人工智慧與資訊安全
+  - [AI 新技術「秒破解」750萬組常用密碼組合！5招學會設立安全密碼強度](https://3c.ltn.com.tw/news/52706)
+  - PassGAN [PassGAN: A Deep Learning Approach for Password Guessing(2017)](https://arxiv.org/abs/1709.00440)
+  - State-of-the-art password guessing tools ==>  HashCat and John the Ripper
 
 # 專業資安證照輔導班
 - [IPAS 資訊安全工程師](https://www.ipas.org.tw/ISE)
