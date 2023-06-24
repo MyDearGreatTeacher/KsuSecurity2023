@@ -3,7 +3,7 @@
 - 每年都有學校補助的專業資安證照輔導班
 
 
-# 資安專業課程
+# 資安專業課程(底下課程須有專數授權才可存取)
 - 系統安全(System Security)
 - 網路安全(Network Security)
 - 網站安全(Web Security)
