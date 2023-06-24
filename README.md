@@ -8,6 +8,9 @@
   - [A1_MyFirstSecurity資安入門的第一堂課](https://github.com/MyFirstSecurity2020/20230301)
   - [A2_Linux資安技術入門](https://github.com/MyFirstSecurity2020/20230302)
   - [A3_Python程式與資安應用入門 ](https://github.com/MyFirstSecurity2020/SF2023A3)
+- 體驗課程
+  - https://120.114.62.205/
+  - https://120.114.62.209/
 # 資安專業課程
 - 系統安全(System Security)
 - 網路安全(Network Security)
