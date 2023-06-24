@@ -2,15 +2,7 @@
 - 每學期都有資安專業課程
 - 每年都有學校補助的專業資安證照輔導班
 
-# CTF(Capture The Flag)搶旗大賽
-- [Myfirstsecurity資安入門的專業品牌](https://github.com/myfirstsecurity2020)
-- [SecurityFocus Online 2023資安入門的第一首選](https://github.com/MyFirstSecurity2020/SecurityFoscusOnline2023)
-  - [A1_MyFirstSecurity資安入門的第一堂課](https://github.com/MyFirstSecurity2020/20230301)
-  - [A2_Linux資安技術入門](https://github.com/MyFirstSecurity2020/20230302)
-  - [A3_Python程式與資安應用入門 ](https://github.com/MyFirstSecurity2020/SF2023A3)
-- 體驗課程
-  - https://120.114.62.205/
-  - https://120.114.62.209/
+
 # 資安專業課程
 - 系統安全(System Security)
 - 網路安全(Network Security)
@@ -42,7 +34,15 @@
 - CISSP Certified Information Systems Security Professional
   - [CISSP資安系統專家認證課程](https://www.uuu.com.tw/Course/Show/47/CISSP-%E8%B3%87%E5%AE%89%E7%B3%BB%E7%B5%B1%E5%B0%88%E5%AE%B6%E8%AA%8D%E8%AD%89%E8%AA%B2%E7%A8%8B)
  
-
+# CTF(Capture The Flag)搶旗大賽
+- [Myfirstsecurity資安入門的專業品牌](https://github.com/myfirstsecurity2020)
+- [SecurityFocus Online 2023資安入門的第一首選](https://github.com/MyFirstSecurity2020/SecurityFoscusOnline2023)
+  - [A1_MyFirstSecurity資安入門的第一堂課](https://github.com/MyFirstSecurity2020/20230301)
+  - [A2_Linux資安技術入門](https://github.com/MyFirstSecurity2020/20230302)
+  - [A3_Python程式與資安應用入門 ](https://github.com/MyFirstSecurity2020/SF2023A3)
+- 體驗課程
+  - https://120.114.62.205/
+  - https://120.114.62.209/
 
 <!--
 **KsuSecurity/KsuSecurity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
