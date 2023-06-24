@@ -10,10 +10,25 @@
   - [A3_Python程式與資安應用入門 ](https://github.com/MyFirstSecurity2020/SF2023A3)
 - 
 # 資安專業課程
-- 
+- 系統安全(System Security)
+- 網路安全(Network Security)
+- 網站安全(Web Security)
+- 滲透測試(Penetration Test)
+- 數位鑑識(Digital Forensics)
+- 程式安全測試(PWN)
+- 逆向工程(Reverse Engineering)
+- [研究所]人工智慧與資訊安全
 
 # 專業資安證照輔導班
--
+- [IPAS 資訊安全工程師](https://www.ipas.org.tw/ISE)
+  - 初階
+  - 中階
+- CEH EC-Council Ethical Hacking and Countermeasures
+ - [EC-Council CEH駭客技術專家認證課程](https://www.uuu.com.tw/Course/Show/300/EC-Council-CEH%E9%A7%AD%E5%AE%A2%E6%8A%80%E8%A1%93%E5%B0%88%E5%AE%B6%E8%AA%8D%E8%AD%89%E8%AA%B2%E7%A8%8B)
+- CISSP Certified Information Systems Security Professional
+  - [CISSP資安系統專家認證課程](https://www.uuu.com.tw/Course/Show/47/CISSP-%E8%B3%87%E5%AE%89%E7%B3%BB%E7%B5%B1%E5%B0%88%E5%AE%B6%E8%AA%8D%E8%AD%89%E8%AA%B2%E7%A8%8B)
+ 
+
 
 <!--
 **KsuSecurity/KsuSecurity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
