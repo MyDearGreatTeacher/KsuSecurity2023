@@ -40,6 +40,7 @@
 - [IPAS 資訊安全工程師](https://www.ipas.org.tw/ISE)
   - 初階
   - 中階 [IPAS_M_202307](https://github.com/MyDearGreatTeacher/IPAS_M_202307)
+    - [【政府補助】智慧製造資訊安全工程師中級培訓班 ](https://college.itri.org.tw/Home/LessonData/9394843B-BDB8-40CF-B30B-57442B6F52E7)
 - CEH EC-Council Ethical Hacking and Countermeasures
   - [EC-Council CEH駭客技術專家認證課程](https://www.uuu.com.tw/Course/Show/300/EC-Council-CEH%E9%A7%AD%E5%AE%A2%E6%8A%80%E8%A1%93%E5%B0%88%E5%AE%B6%E8%AA%8D%E8%AD%89%E8%AA%B2%E7%A8%8B)
 - CISSP Certified Information Systems Security Professional
