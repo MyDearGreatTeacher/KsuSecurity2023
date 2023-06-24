@@ -20,7 +20,15 @@
   - 進階程式安全漏洞分析Advanced Heap Exploitation
   - 進階網路流量分析(惡意流量分析與惡意程式解析)
   - 惡意程式分析(Advanced Malware analysis)
+- [研究所]機器學習與資訊安全
+  - 機器學習 課程 
 - [研究所]人工智慧與資訊安全
+  - 人工智慧課程
+    - PyTorch 人工智慧實戰
+    - Jeras/Tensorflow 人工智慧實戰
+    - RNN實戰
+    - Generative AI 實戰
+      - Chatgpt 體驗 
   - [AI 新技術「秒破解」750萬組常用密碼組合！5招學會設立安全密碼強度](https://3c.ltn.com.tw/news/52706)
   - PassGAN [PassGAN: A Deep Learning Approach for Password Guessing(2017)](https://arxiv.org/abs/1709.00440)
   - State-of-the-art password guessing tools ==>  HashCat and John the Ripper
