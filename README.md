@@ -24,6 +24,10 @@
   - 資訊安全管理系統(Information Security Management System|ISMS)ISO27001:2022
   - 資安風險管理(risk management) ISO iso27005:2022
   - 營運持續管理(Business Continuity Management, BCM)ISO 22301/22313
+- [研究所]高階資安技術專題
+  - 進階程式安全漏洞分析Advanced Heap Exploitation
+  - 進階網路流量分析(惡意流量分析與惡意程式解析)
+  - 惡意程式分析(Advanced Malware analysis)
 - [研究所]人工智慧與資訊安全
   - [AI 新技術「秒破解」750萬組常用密碼組合！5招學會設立安全密碼強度](https://3c.ltn.com.tw/news/52706)
   - PassGAN [PassGAN: A Deep Learning Approach for Password Guessing(2017)](https://arxiv.org/abs/1709.00440)
