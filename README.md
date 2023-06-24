@@ -15,6 +15,8 @@
 - 程式安全測試(PWN) 課程網址:PWN2023(需要授權)
 - [研究所]高階資安專題
   - 資訊安全管理系統(Information Security Management System|ISMS)ISO27001:2022
+    - [ISO 27001：2022資訊安全管理系統主導稽核員訓練課程](https://www.uuu.com.tw/Course/Show/1600/ISO-27001-2013%E8%B3%87%E8%A8%8A%E5%AE%89%E5%85%A8%E7%AE%A1%E7%90%86%E7%B3%BB%E7%B5%B1%E4%B8%BB%E5%B0%8E%E7%A8%BD%E6%A0%B8%E5%93%A1%E8%A8%93%E7%B7%B4%E8%AA%B2%E7%A8%8B)
+      - ISO/IEC 27001:2022 Lead Auditor (Information Security Management Systems) Training Course 
   - 資安風險管理(risk management) ISO iso27005:2022
   - 營運持續管理(Business Continuity Management, BCM)ISO 22301/22313
 - [研究所]高階資安技術專題
